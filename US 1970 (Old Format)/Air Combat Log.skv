@@ -1,0 +1,53 @@
+Time;Number Of Attacking AC;Role;AircraftType;Home Base;Attack Value;Number Of Defending AC;Role;AircraftType;Home Base;Resistance Value;Destroyed;Damaged
+26 02:00 ;7;LJF;Nakajima Katsushika;CV Unryu;536;1;MB;Farman F.105;Airbase Fort Bayard;232;0;1
+26 02:00 ;7;LJF;Nakajima Katsushika;CV Unryu;476;0;MB;Farman F.105;Airbase Fort Bayard;232;1;0
+26 02:41 ;10;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;392;10;LJF;Nakajima Katsushika;CV Unryu;285;1;0
+26 02:41 ;10;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;398;10;LJF;Nakajima Katsushika;CV Unryu;268;0;1
+26 02:41 ;10;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;425;10;LJF;Nakajima Katsushika;CV Unryu;268;0;1
+26 02:41 ;10;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;425;9;LJF;Nakajima Katsushika;CV Unryu;268;1;0
+26 02:41 ;7;LJF;Nakajima Katsushika;CV Unryu;419;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;306;1;0
+26 02:41 ;7;LJF;Nakajima Katsushika;CV Unryu;473;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;286;0;1
+26 03:03 ;10;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;470;1;LJF;Nakajima Katsushika;CV Unryu;286;1;0
+26 03:06 ;6;LJF;Lockheed Skyraider;CV Intrepid;566;0;LJF;Nakajima Katsushika;CV Unryu;306;1;0
+26 03:43 ;9;LJF;Lockheed Skyraider;CV Essex;479;0;JA;Kyushu Kokubunji;Airbase Haikou;262;1;0
+26 04:04 ;13;LJF;Nakajima Katsushika;CV Unryu;470;1;HJF;Curtiss Lancer B;CV Essex;284;0;1
+26 04:05 ;13;LJF;Nakajima Katsushika;CV Unryu;467;7;HJF;Curtiss Lancer B;CV Essex;284;1;0
+26 04:05 ;10;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;491;13;LJF;Nakajima Katsushika;CV Unryu;268;0;1
+26 04:05 ;10;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;458;13;LJF;Nakajima Katsushika;CV Unryu;268;0;1
+26 04:05 ;10;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;368;13;LJF;Nakajima Katsushika;CV Unryu;268;0;1
+26 04:05 ;10;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;443;12;LJF;Nakajima Katsushika;CV Unryu;268;1;0
+26 04:05 ;10;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;416;12;LJF;Nakajima Katsushika;CV Unryu;268;0;1
+26 04:05 ;8;LJF;Nakajima Katsushika;CV Unryu;263;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;306;1;0
+26 04:05 ;2;HJF;Curtiss Lancer B;CV Intrepid;449;11;LJF;Nakajima Katsushika;CV Unryu;285;1;0
+26 04:05 ;2;LJF;Lockheed Skyraider;CV Intrepid;536;11;LJF;Nakajima Katsushika;CV Unryu;268;0;1
+26 04:05 ;1;LJF;Nakajima Katsushika;CV Unryu;542;0;MB;Farman F.105;Airbase Fort Bayard;232;1;0
+26 04:06 ;7;LJF;Lockheed Skyraider;CV Intrepid;500;11;LJF;Nakajima Katsushika;CV Unryu;268;0;1
+26 04:06 ;7;LJF;Lockheed Skyraider;CV Intrepid;449;10;LJF;Nakajima Katsushika;CV Unryu;285;1;0
+26 04:07 ;6;LJF;Nakajima Katsushika;CV Unryu;464;1;HJF;Curtiss Lancer B;CV Essex;264;1;0
+26 04:07 ;6;LJF;Nakajima Katsushika;CV Unryu;524;0;HJF;Curtiss Lancer B;CV Essex;284;1;0
+26 04:07 ;4;LJF;Nakajima Katsushika;CV Unryu;206;1;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;286;1;0
+26 04:07 ;4;LJF;Nakajima Katsushika;CV Unryu;176;0;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;306;1;0
+26 04:07 ;2;HJF;Curtiss Lancer B;CV Intrepid;371;9;LJF;Nakajima Katsushika;CV Unryu;268;1;0
+26 05:12 ;8;HJF;Curtiss Lancer B;CV Intrepid;374;3;JA;Kyushu Kokubunji;Airbase Haikou;202;1;0
+26 05:12 ;8;HJF;Curtiss Lancer B;CV Intrepid;491;3;JA;Kyushu Kokubunji;Airbase Haikou;219;0;1
+26 05:12 ;8;HJF;Curtiss Lancer B;CV Intrepid;404;3;JA;Kyushu Kokubunji;Airbase Haikou;219;0;1
+26 05:14 ;2;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;443;2;JA;Kyushu Kokubunji;Airbase Haikou;202;1;0
+26 05:14 ;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;449;2;JA;Kyushu Kokubunji;Airbase Haikou;219;0;1
+26 05:14 ;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;410;2;JA;Kyushu Kokubunji;Airbase Haikou;219;0;1
+26 05:15 ;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;449;2;JA;Kyushu Kokubunji;Airbase Haikou;219;0;1
+26 05:15 ;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;479;2;JA;Kyushu Kokubunji;Airbase Haikou;219;0;1
+26 05:17 ;2;LJF;Lockheed Skyraider;CV Intrepid;509;1;JA;Kyushu Kokubunji;Airbase Haikou;202;1;0
+26 05:18 ;2;HJF;Curtiss Lancer B;CV Intrepid;437;0;JA;Kyushu Kokubunji;Airbase Haikou;219;1;0
+26 06:03 ;1;LJF;Lockheed Skyraider;CV Essex;446;3;LJF;Nakajima Katsushika;CV Unryu;268;1;0
+26 06:03 ;3;LJF;Nakajima Katsushika;CV Unryu;395;1;LJF;Lockheed Skyraider;CV Essex;286;0;1
+26 06:04 ;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;470;3;LJF;Nakajima Katsushika;CV Unryu;285;0;1
+26 06:04 ;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;461;2;LJF;Nakajima Katsushika;CV Unryu;285;1;0
+26 06:04 ;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;473;1;LJF;Nakajima Katsushika;CV Unryu;285;1;0
+26 06:04 ;9;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;428;0;LJF;Nakajima Katsushika;CV Unryu;268;1;0
+26 07:36 ;5;HJF;Curtiss Lancer B;CV Intrepid;470;1;JA;Kyushu Kokubunji;Airbase Haikou;242;0;1
+26 07:44 ;3;HJF;Curtiss Lancer B;CV Essex;353;3;LJF;Nakajima Katsushika;CV Unryu;285;0;1
+26 07:44 ;3;HJF;Curtiss Lancer B;CV Essex;395;2;LJF;Nakajima Katsushika;CV Unryu;285;1;0
+26 07:45 ;2;LJF;Lockheed Skyraider;CV Intrepid;569;2;LJF;Nakajima Katsushika;CV Unryu;268;0;1
+26 07:45 ;2;LJF;Lockheed Skyraider;CV Intrepid;527;2;LJF;Nakajima Katsushika;CV Unryu;268;0;1
+26 07:46 ;4;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;320;1;LJF;Nakajima Katsushika;CV Unryu;285;1;0
+26 07:47 ;4;LJF;Lockheed Skyraider;CV Franklin D Roosevelt;200;1;LJF;Nakajima Katsushika;CV Unryu;285;0;1

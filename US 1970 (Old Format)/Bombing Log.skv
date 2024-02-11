@@ -1,0 +1,12 @@
+Time;Number Of AC;Role;AircraftType;Home Base;DisruptionBomb Hit Chance;Target ShipBomb Hits
+26 03:39 ;0;S;Kawanishi Komae;BB Mikasa;level bomb;8;38;DD Sampson;0
+26 06:28 ;2;JA;Consolidated Maryland;CV Intrepid;glide bomb;3;227;BC Iburi;0
+26 06:30 ;2;JA;Consolidated Maryland;CV Essex;glide bomb;4;201;CV Unryu;0
+26 06:37 ;2;JA;Consolidated Maryland;CV Intrepid;glide bomb;0;243;DD Kishinami;0
+26 08:03 ;5;JA;Consolidated Maryland;CV Essex;glide bomb;1;209;DD Oyashio;2
+26 08:04 ;2;JA;Consolidated Maryland;CV Essex;glide bomb;4;138;DD Kiyonami;0
+26 08:05 ;4;JA;Consolidated Maryland;CV Intrepid;glide bomb;1;182;DD Kamikaze;1
+26 08:05 ;4;JA;Consolidated Maryland;CV Essex;glide bomb;0;158;DD Kiyonami;0
+26 08:07 ;4;JA;Consolidated Maryland;CV Intrepid;glide bomb;0;120;DD Samidare;0
+26 09:03 ;0;JA;Consolidated Maryland;CV Intrepid;glide bomb;3;110;DD Oyashio;0
+26 09:03 ;2;JA;Consolidated Maryland;CV Essex;glide bomb;2;115;DD Oyashio;0
